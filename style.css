@@ -8,3 +8,39 @@ body{
     background: #fff;
     margin: 0 auto;
 }
+
+
+.ul1{
+    margin-left: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.d1, .d2{
+    display: flex;
+}
+
+.b{
+    background-color: transparent;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #21383E;
+
+    font-weight: 600;
+    font-size: 16px;
+    height: 100px;
+    width: 160px;
+}
+
+.st{
+    font-weight: 1000;
+    color:#000;
+    font-size: 22px;
+}
+
+.login{
+    background-color: #F5F2EC;
+    border-bottom-left-radius: 35%;
+}
+
+
