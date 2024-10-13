@@ -31,10 +31,22 @@ body{
     width: 160px;
 }
 
+.S{
+    width: 40px;
+    font-size: 22px;
+    font-weight: 700;
+    background-color: #000;
+    color: #fff;
+    height: 40px;
+    border-radius: 50%;
+    
+}
+
 .st{
     font-weight: 1000;
     color:#000;
     font-size: 22px;
+    padding-bottom: 4px;
 }
 
 .login{
@@ -54,6 +66,7 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    align-items: center;
 }
 
 .text>h1{
@@ -69,6 +82,13 @@ body{
 
 .wr{
     overflow: hidden;
+}
+
+.left{
+    width: 502px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .wr1{
